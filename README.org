@@ -20,4 +20,4 @@ from the python interpreter, and setting up bpy.context correctly for some basic
 
 * Demo
 
-  [[https://github.com/tristanstraub/blender-clj-addon/blob/master/src/blender_clj_addon/demos/cube.clj]]
+  [[cube][https://github.com/tristanstraub/blender-clj-addon/blob/master/src/blender_clj_addon/demos/cube.clj]]
