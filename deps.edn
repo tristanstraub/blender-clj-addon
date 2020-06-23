@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {org.clojure/clojure   {:mvn/version "1.10.1"}
+         clj-python-trampoline {:git/url "https://github.com/tristanstraub/clj-python-trampoline"
+                                :sha "fde21cc9bd7cc885f733b88e6303eb627cf50c18"}}}
